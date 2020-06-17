@@ -1,4 +1,5 @@
 # ColorAssetGen
+Tools for defining colors in asset catalogs
 
 ## Installation
 ### Makefile
